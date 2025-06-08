@@ -1,0 +1,18 @@
+{
+    "name": "Orbitek",
+    "symbol": "OBT",
+    "address": "ApNTdB7irWgybdtsSudAvUF75s5ckMJbUse1YdGgiQui",
+    "decimals": 9,
+    "chainId": 101,
+    "logoURI": "https://raw.githubusercontent.com/Scania2023/orbitek-site/main/orbitek_logo.png",
+    "tags": [
+        "utility-token",
+        "defi"
+    ],
+    "extensions": {
+        "website": "https://scania2023.github.io/orbitek-site/",
+        "twitter": "https://twitter.com/",
+        "telegram": "https://t.me/",
+        "whitepaper": "https://scania2023.github.io/orbitek-site/orbitek_whitepaper.pdf"
+    }
+}
